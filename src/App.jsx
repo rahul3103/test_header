@@ -17,7 +17,7 @@ function App() {
   const id = open ? 'popover' : undefined;
   return (
     <div className="App">
-      <Router>
+      <Router basename="/test_header">
         <NavigationBar setType={setType} id={id} handleClick={handleClick} />
         <Routes />
       </Router>
