@@ -2,7 +2,7 @@
   "name": "osdb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rahul3103.github.io/test_header",
+  "homepage": "https://rahul3103.github.io/test_header/",
   "dependencies": {
     "@material-ui/core": "^4.1.2",
     "@material-ui/icons": "^4.2.1",
